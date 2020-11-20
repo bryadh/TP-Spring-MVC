@@ -1,0 +1,8 @@
+fr/umontpellier/fds/m2/model/Registration.java
+ fr.umontpellier.fds.m2.model.Registration
+fr/umontpellier/fds/m2/controller/RegistrationController.java
+ fr.umontpellier.fds.m2.controller.RegistrationController
+fr/umontpellier/fds/m2/AppConfig.java
+ fr.umontpellier.fds.m2.AppConfig
+fr/umontpellier/fds/m2/MainWebAppInitializer.java
+ fr.umontpellier.fds.m2.MainWebAppInitializer
